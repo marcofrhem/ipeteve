@@ -1,0 +1,18 @@
+# EXTM3U  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Café",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/RXH" group-title="Café",SBT
+http://psrv.io:80/9089247/coreurl.me/18764
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="Café", Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/dOF" group-title="Café",Gloob
+http://psrv.io:80/9089247/coreurl.me/18775
+#EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Café",Fox
+http://psrv.io:80/9089247/coreurl.me/18779
+#EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Café",Globo SP
+http://psrv.io:80/9089247/coreurl.me/28068
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Café", Loading
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="Café", Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
