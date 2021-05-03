@@ -7,3 +7,5 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w212085830.m3u8
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5gormsu7qderx4z0coz5281hehosfp2f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
