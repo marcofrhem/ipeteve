@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports Premium 1
-http://xiptv.dyndns.tv:8000/shadi/987654321/2
-#EXTINF:-1,|BR| SBT FHD
-http://xiptv.dyndns.tv:8000/shadi/987654321/42910
-#EXTINF:-1 tvg-id="" tvg-name="Art Porn Emme White fodendo toda lambuzada de pitaya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bg8wkqDapLwDSZr1Xt7BkmcjobD.jpg" group-title="FILMES | ADULTOS",Art Porn Emme White fodendo toda lambuzada de pitaya
-#EXTINF:-1,|BR| Shoptime FHD
-http://xiptv.dyndns.tv:8000/shadi/987654321/42912
-#EXTINF:-1,|BR| Record RJ HD
-http://xiptv.dyndns.tv:8000/shadi/987654321/42894
-#EXTINF:-1,|BR| Rede Super FHD
-http://xiptv.dyndns.tv:8000/shadi/987654321/42903
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w212085830.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/5gormsu7qderx4z0coz5281hehosfp2f/playlist.m3u8
